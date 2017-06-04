@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
         scoreTeamB += 1;
         displayForTeamB(scoreTeamB);
     }
-
+//
     public void reset(View v)
     {
         scoreTeamA = 0;
